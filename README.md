@@ -4,11 +4,15 @@
 
 ### *Turning Raw Data into Decisions that Matter.*
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
-**[🌐 Live Portfolio](https://tushar118mca.github.io/Tushar_portfolio/#home)** · **[📄 Resume](Resume/Tushar_Data_Analyst_Resume2.pdf)** · **[💼 LinkedIn](https://linkedin.com/in/tushar118mca)** · **[🐙 GitHub](https://github.com/tushar118MCA)**
+**[🌐 Live Portfolio](https://tushar118mca.github.io/Tushar_portfolio/#home)** · **[📄 Resume](Resume/Tushar_Data_Analyst_Resume2.pdf)** · **[💼 LinkedIn](https://linkedin.com/in/tushar118mca)** 
 
 </div>
 
@@ -20,7 +24,7 @@ I'm a **Data Analyst** (MCA, JSPM University, Pune) who enjoys digging for the s
 
 This repository is the source code of my personal portfolio website: a dark, cyan-accented, fully responsive single-page site that showcases my projects, skills, experience, and certifications.
 
-> 🎯 **Currently looking for:** MIS Executive / Data Analyst roles where I can apply Python, SQL, and Power BI to real business problems.
+> 🎯 **Currently looking for:** Data Analyst / Business Analyst / Research Analyst roles where I can apply Python, SQL, and Power BI to real business problems.
 
 ---
 
@@ -195,8 +199,10 @@ portfolio/
 │   ├── Python_Professional_Certificate.png
 │   ├── Deloitte_Data_analytics_certificate.png
 │   └── MYSQL_Crash_course_Certificate.png
-└── Resume/
-    └── Tushar_Data_Analyst_Resume2.pdf
+├── Resume/
+│   └── Tushar_Data_Analyst_Resume2.pdf
+├── LICENSE                    # MIT License (code only)
+└── README.md
 ```
 
 ---
@@ -219,6 +225,8 @@ python -m http.server 8000
 # then visit http://localhost:8000
 ```
 
+
+
 ---
 
 ## 🎨 Design Notes
@@ -231,6 +239,13 @@ python -m http.server 8000
 | Secondary accent | `#00b4d8` |
 | Muted text | `#94a3b8` |
 | Font | Inter → system-ui fallback stack |
+
+---
+
+## 📜 License
+
+The **source code** of this website (`index.html`, `style.css`, `script.js`) is released under the [MIT License](LICENSE) — you're welcome to fork it, learn from it, and adapt it for your own portfolio.
+
 
 ---
 
@@ -248,6 +263,6 @@ Have an interesting project or an open role? I'd love to hear from you.
 
 ⭐ *If you liked this portfolio, consider giving the repo a star!* ⭐
 
-© 2026 Tushar Nimbekar. All rights reserved.
+Code licensed under [MIT](LICENSE) · Personal content © 2026 Tushar Nimbekar. All rights reserved.
 
 </div>
